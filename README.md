@@ -54,9 +54,9 @@ MVPリリース時
 会員登録、ログイン、投稿機能、コメント機能、検索機能、プロフィール機能、オートコンプリート機能、(募集開始時)Xの投稿機能、フォロー/フォロワー機能
 
 本リリース時
-通知機能（LINE API?）、チャット機能（websocket通信)、場所や現在地の取得(Google maps api)、いいね機能(コート、場所の評価)、タグ機能、コートの登録機能、、カテゴリー機能
+通知機能（LINE Notify）、チャット機能（websocket通信)、現在地の取得(Google Geolocation API)、場所の取得(Google Places API)、いいね機能(コート、場所の評価)、タグ機能、コートの登録機能、、カテゴリー機能
 
 ## 機能の実装方針予定
 一般的なCRUD以外の実装予定の機能についてそれぞれどのようなイメージ(使用するAPIや)で実装する予定なのか現状考えているもので良いので教えて下さい。
 
-LINE APIでの通知機能、WebSocket通信、Google maps api
+LINE Notifyでの通知機能、WebSocket通信、Google maps api
