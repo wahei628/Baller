@@ -61,7 +61,7 @@ MVPリリース時
 ・Xの投稿機能
 ・現在地の取得(Google Geolocation API)
 ・場所の取得(Google Places API)、
-・おすすめトレーニングの提案(Open AI API)
+
 
 本リリース時
 ・タグ機能
@@ -69,11 +69,12 @@ MVPリリース時
 ・カテゴリー機能
 ・オートコンプリート機能
 ・コートの登録機能(地図上に表示されない、検索に引っかからない物)
+・おすすめトレーニングの提案(YouTube Data API)
 ・Google認証ログイン機能
 
 ■ 機能の実装方針予定
 
 現在地の取得(Google Geolocation API)
 場所の取得(Google Places API)、
-おすすめトレーニングの提案(Open AI API)
+おすすめトレーニングの提案(YouTube Data API)
 Google認証ログイン機能
