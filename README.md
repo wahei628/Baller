@@ -1,5 +1,6 @@
 ## ER図の作成
-https://gyazo.com/24b9b4919df85233650fa5cd5094d90e
+https://gyazo.com/5c9a11e87f55dbe3e27d52d7ab9ceb4a
+
 
 
 画面遷移図を作成しました。
