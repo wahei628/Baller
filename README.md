@@ -1,5 +1,5 @@
 ## ER図の作成
-https://gyazo.com/5c9a11e87f55dbe3e27d52d7ab9ceb4a
+https://gyazo.com/8b8683609fe1cc7d02c97bf979e56655
 
 
 
